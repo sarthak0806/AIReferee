@@ -1,0 +1,11 @@
+file_name,publishable,reason,section_similarities,scientific_scores
+R006.pdf,No,Missing methodology section,"{'abstract': 0.96495855, 'introduction': 0.80686224}","{'abstract': 0.5907652974128723, 'introduction': 0.6121377150217692}"
+R007.pdf,No,Missing methodology section,"{'abstract': 0.6528114, 'introduction': 0.87404644}","{'abstract': 0.6413491666316986, 'introduction': 0.5489920462880816}"
+R015.pdf,No,Missing methodology section,"{'abstract': 0.84372425, 'introduction': 0.84813654}","{'abstract': 0.5914462208747864, 'introduction': 0.5947957813739777}"
+R008.pdf,No,Missing methodology section,"{'abstract': 0.62722343, 'introduction': 0.8954442}","{'abstract': 0.590550571680069, 'introduction': 0.5869828760623932}"
+R009.pdf,No,Missing methodology section,"{'abstract': 0.7806112, 'introduction': 0.860088}","{'abstract': 0.5124687552452087, 'introduction': 0.537410386971065}"
+R014.pdf,No,Missing methodology section,"{'abstract': 0.64487207, 'introduction': 0.5574441}","{'abstract': 0.5777020752429962, 'introduction': 0.6508764028549194}"
+R013.pdf,No,Missing methodology section,"{'abstract': 0.7353931, 'introduction': 0.7702998}","{'abstract': 0.7144989371299744, 'introduction': 0.5469510356585184}"
+R012.pdf,No,Missing methodology section,"{'abstract': 0.6463716, 'introduction': 0.8171235, 'results': 0.7959069, 'conclusion': 0.79879427}","{'abstract': 0.5509359240531921, 'introduction': 0.5647367596626282, 'results': 0.6430786166872297, 'conclusion': 0.5290119834244251}"
+R010.pdf,No,Missing methodology section,"{'abstract': 0.6556748, 'introduction': 0.9552703}","{'abstract': 0.5445521871248881, 'introduction': 0.6594014704227448}"
+R011.pdf,No,Score: 0.627,"{'abstract': 0.7433426, 'introduction': 0.8598759, 'methodology': 0.72742164, 'results': 0.546804}","{'abstract': 0.6614722609519958, 'introduction': 0.6584540406862894, 'methodology': 0.5667828541052969, 'results': 0.56901113986969}"

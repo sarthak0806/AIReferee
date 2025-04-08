@@ -1,0 +1,6 @@
+file_name,publishable,overall_score,section_similarities,scientific_scores
+R005.pdf,Yes,Score: 0.775,"{'abstract': 0.44813257, 'introduction': 0.87607694}","{'abstract': 0.5866757333278656, 'introduction': 0.563748965660731}"
+R004.pdf,Yes,Score: 0.990,"{'abstract': 0.836252, 'introduction': 0.9243818}","{'abstract': 0.5406647324562073, 'introduction': 0.5489467233419418}"
+R003.pdf,Yes,Score: 0.798,"{'abstract': 0.595832, 'introduction': 0.78050506}","{'abstract': 0.6303318440914154, 'introduction': 0.5509708642959594}"
+R002.pdf,Yes,Score: 0.753,"{'abstract': 0.58972096, 'introduction': 0.6938602}","{'abstract': 0.5558055639266968, 'introduction': 0.554502957397037}"
+R001.pdf,Yes,Score: 0.904,"{'abstract': 0.675339, 'introduction': 0.8642968}","{'abstract': 0.6286541223526001, 'introduction': 0.6707933843135834}"

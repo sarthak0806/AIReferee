@@ -1,0 +1,11 @@
+langchain
+requests
+python-dotenv
+streamlit
+groq
+PyPDF2
+sentence-transformers
+faiss-cpu
+arxiv
+google-search-results
+

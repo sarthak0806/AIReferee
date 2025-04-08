@@ -1,0 +1,11 @@
+file_name,publishable,overall_score,section_similarities,scientific_scores
+R006.pdf,No,Score: 0.451,"{'abstract': 0.96495855, 'introduction': 0.80686224}","{'abstract': 0.7020865380764008, 'introduction': 0.535149614016215}"
+R007.pdf,No,Score: 0.397,"{'abstract': 0.6528114, 'introduction': 0.87404644}","{'abstract': 0.567051112651825, 'introduction': 0.5546640498297555}"
+R015.pdf,No,Score: 0.415,"{'abstract': 0.84372425, 'introduction': 0.84813654}","{'abstract': 0.5258230268955231, 'introduction': 0.5510471105575562}"
+R008.pdf,No,Score: 0.406,"{'abstract': 0.62722343, 'introduction': 0.8954442}","{'abstract': 0.623928427696228, 'introduction': 0.5571404496828715}"
+R009.pdf,No,Score: 0.407,"{'abstract': 0.7806112, 'introduction': 0.860088}","{'abstract': 0.5233412384986877, 'introduction': 0.547902490411486}"
+R014.pdf,No,Score: 0.369,"{'abstract': 0.64487207, 'introduction': 0.5574441}","{'abstract': 0.5949190258979797, 'introduction': 0.6624393661816915}"
+R013.pdf,No,Score: 0.390,"{'abstract': 0.7353931, 'introduction': 0.7702998}","{'abstract': 0.5569002032279968, 'introduction': 0.5400322576363882}"
+R012.pdf,No,Score: 0.391,"{'abstract': 0.6463716, 'introduction': 0.8171235, 'results': 0.7959069, 'discussion': 0.7337609}","{'abstract': 0.5881909132003784, 'introduction': 0.5479285597801209, 'results': 0.5306875024523053, 'discussion': 0.5593715111414591}"
+R010.pdf,No,Score: 0.415,"{'abstract': 0.6556748, 'introduction': 0.9552703}","{'abstract': 0.6071248650550842, 'introduction': 0.5478472471237182}"
+R011.pdf,Yes,Score: 0.585,"{'abstract': 0.7433426, 'introduction': 0.8598759, 'methodology': 0.72742164, 'results': 0.546804, 'conclusion': 0.29215455}","{'abstract': 0.6559848586718241, 'introduction': 0.5589037934939066, 'methodology': 0.5486493738074052, 'results': 0.5719900906085968, 'conclusion': 0.5824703375498453}"
