@@ -35,8 +35,18 @@ def main():
     st.set_page_config(page_title="Research Assessor", layout="wide")
     st.title("📄 Academic Paper Publishability Assessor")
     
+    groq_api_key = st.text_input('Enter your Groq API Key', type='password')
+    serpapi_api_key = st.text_input('Enter your SerpAPI Key', type='password')
+    
+    if not groq_api_key or not serpapi_api_key:
+        st.warning("Please enter both API keys to proceed.")
+        return
+
+    # Initialize both clients with user-provided API keys
+    groq_client = initialize_groq_client(groq_api_key)
+    serpapi_client = initialize_serpapi_client(serpapi_api_key)
     # Initialize client
-    client = initialize_groq_client()
+    # client = initialize_groq_client()
     
     # File upload
     uploaded_file = st.file_uploader("Upload research paper (PDF)", type="pdf")
