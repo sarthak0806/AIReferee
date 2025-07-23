@@ -39,15 +39,15 @@ def main():
     serpapi_api_key = st.text_input('Enter your SerpAPI Key', type='password')
     
     
-
+    if not groq_api_key or not serpapi_api_key:
+        st.warning("Please enter both API keys to proceed.")
+        return
     # Initialize both clients with user-provided API keys
     groq_client = initialize_groq_client(groq_api_key)
     serpapi_client = initialize_serpapi_client(serpapi_api_key)
     # Initialize client
     # client = initialize_groq_client()
-    if not groq_api_key or not serpapi_api_key:
-        st.warning("Please enter both API keys to proceed.")
-        return
+    
     # File upload
     uploaded_file = st.file_uploader("Upload research paper (PDF)", type="pdf")
     if not uploaded_file:
